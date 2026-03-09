@@ -15,7 +15,7 @@ Arquitectura de 4 bloques Conv2D con BatchNormalization, MaxPooling y Dropout.
 Técnicas aplicadas: Data Augmentation, EarlyStopping y ReduceLROnPlateau.
 Entorno: Google Colab GPU T4.
 
-
+[![Ver Notebook](https://img.shields.io/badge/Ver%20Notebook-CNN%20Pollos-blue?style=for-the-badge&logo=jupyter)](https://github.com/pipediaz1234/CNN-Enfermedades-Pollos/blob/main/CNN_Pollos_Completo_.ipynb)
 ---
 
 **Andrés Felipe Díaz Campos** · Ingeniería de Sistemas · Universidad de Cundinamarca  
