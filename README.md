@@ -1,6 +1,6 @@
-# CNN-Enfermedades-Pollos
-Clasificación de enfermedades en pollos con CNN - Universidad de Cundinamarca
 # 🐔 CNN — Clasificación de Enfermedades en Pollos
+Clasificación de enfermedades en pollos con CNN - Universidad de Cundinamarca
+
 
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
